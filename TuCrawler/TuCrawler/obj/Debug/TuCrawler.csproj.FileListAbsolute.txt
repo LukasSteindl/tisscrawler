@@ -1,0 +1,11 @@
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\bin\Debug\TuCrawler.exe.config
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\bin\Debug\TuCrawler.exe
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\bin\Debug\TuCrawler.pdb
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\obj\Debug\TuCrawler.csprojAssemblyReference.cache
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\obj\Debug\TuCrawler.csproj.CoreCompileInputs.cache
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\obj\Debug\TuCrawler.csproj.CopyComplete
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\obj\Debug\TuCrawler.exe
+C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\obj\Debug\TuCrawler.pdb
