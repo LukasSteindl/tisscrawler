@@ -71,7 +71,7 @@ namespace TuCrawler
                 string url = @"https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr="+ courseNumber + "&dsrid=430";
                 string html = client.DownloadString(url);
                 // feed the HTML to HTML Agility Pack
-                Thread.Sleep(100);
+                Thread.Sleep(300);
                 var doc = new HtmlDocument();
                 doc.LoadHtml(html);
                 try
