@@ -9,3 +9,14 @@ C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\obj\Debug\TuCrawler.csproj.Core
 C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\obj\Debug\TuCrawler.csproj.CopyComplete
 C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\obj\Debug\TuCrawler.exe
 C:\Users\lukast\Source\Repos\TuCrawler\TuCrawler\obj\Debug\TuCrawler.pdb
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\bin\Debug\TuCrawler.exe.config
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\bin\Debug\TuCrawler.exe
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\bin\Debug\TuCrawler.pdb
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\obj\Debug\TuCrawler.csprojAssemblyReference.cache
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\obj\Debug\TuCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\obj\Debug\TuCrawler.csproj.CopyComplete
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\obj\Debug\TuCrawler.exe
+C:\Users\Lukas\Documents\tisscrawler\TuCrawler\TuCrawler\obj\Debug\TuCrawler.pdb
